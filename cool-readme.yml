@@ -1,0 +1,4 @@
+# README cards, see https://github.com/pedrocatalao/github-cool-readme
+show: [summary, languages, contributions, weekly, streaks]
+look:
+  style: classic
