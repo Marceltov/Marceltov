@@ -13,6 +13,10 @@ Projects, résumé, cloud and blog: **[marcelbruckner.de](https://marcelbruckner
 - **My own cloud:** two mini PCs in a 10-inch rack, seven zones, three tiers of backup, all of it as code.
 - **Background:** M.Sc. and B.Sc. in Computer Science: Games Engineering at TUM. My master's thesis taught reinforcement learning agents several robot manipulation tasks in sequence without forgetting the earlier ones.
 
+## How I build with AI agents
+
+**[engineering-conventions](https://marceltov.github.io/engineering-conventions/)**: written rules for architecture, code, working with Claude, repository setup and stacks, which a Claude Code plugin brings into every session, so agents work to the same standards I do and can audit a repository against all of them. It is the same question I work on as a software quality consultant: how a team makes quality a shared goal, now for a team that includes agents. The plugin ships in my **[claude-marketplace](https://github.com/Marceltov/claude-marketplace)**, the harness of plugins I use every day.
+
 ## Software you can use
 
 | | |
